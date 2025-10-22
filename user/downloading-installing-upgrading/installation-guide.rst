@@ -259,7 +259,7 @@ By default, the installer will create a number of qubes (depending on the option
 
 Let’s briefly go over the options:
 
-- **Templates Configuration:** Here you can decide which :doc:`templates </user/templates/templates>` you want to have installed, and which will be the default template.
+- **Templates Configuration:** These are the :doc:`templates </user/templates/templates>` that are :doc:`provided and supported by Qubes OS </user/templates/templates#official>`, and exist in the installation ISO. These templates can be installed now, without internet connection. Any of these templates may be :doc:`manually downloaded and installed </user/templates/templates#installing> later.
 
 - **Create default system qubes:** These are the core components of the system, required for things like internet access. You can opt to have some created as :term:`disposables <disposable>`.
 
